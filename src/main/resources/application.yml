@@ -1,0 +1,8 @@
+spring:
+  jpa:
+    generate-ddl: true
+    show-sql: true
+
+logging:
+  level:
+    wiremock.org: DEBUG
